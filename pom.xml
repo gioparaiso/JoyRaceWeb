@@ -189,7 +189,7 @@
                         <version>2.2</version>
                         <configuration>
                             <outputDirectory>deployments</outputDirectory>
-                            <warName>joyrace</warName>
+                            <warName>ROOT</warName>
                         </configuration>
                     </plugin>
                 </plugins>
