@@ -4,10 +4,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.joyrace.spring</groupId>
-	<artifactId>joyrace</artifactId>
+	<artifactId>joyraceweb</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
-	<name>joyrace</name>
+	<name>joyraceweb</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -158,7 +158,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>joyrace</finalName>
+		<finalName>joyraceweb</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
